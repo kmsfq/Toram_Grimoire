@@ -167,7 +167,7 @@ branch:
     combo_rate:
       'false': 连击威力
     '@custom-base-caption':
-      both: 根据((!角色的ATK及MATK的高低))。ATK比MATK高时，取((!有效ATK))；MATK比ATK高时，取((!有效MATK))。
+      both: 根据![角色的ATK及MATK的高低]。ATK比MATK高时，取![有效ATK]；MATK比ATK高时，取![有效MATK]。
       dual_sword: 双剑有自己特殊的有效ATK公式，细节请查看#[双剑特性说明]。
     'effective_area: title': 类型
     'radius: title': 伤害半径
