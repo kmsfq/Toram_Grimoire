@@ -46,7 +46,7 @@ const isSub = computed(() => props.isSub)
 
 const refiningAdditionAmount = computed(() => {
   const eq = props.equipment
-  if (!eq) {
+  if (!eq || !eq.is(EquipmentKinds.Weapon) || !eq.hasRefining || eq.refining <= 0) {
     return 0
   }
   if (isSub.value && eq.type === EquipmentTypes.OneHandSword) {
