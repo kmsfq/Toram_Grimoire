@@ -26,7 +26,7 @@ browse-equipments:
   copy-equipment-tips: Equipment has been copied.
   no-any-equipment-tips: This is currently empty... Please click the button in the upper right corner to add equipment 0.0
   serach-no-equipment-tips: No equipment was found.
-  double-click-to-select-tips:  Tips: You can change equipment directly by double-clicking.
+  double-click-to-select-tips:  You can change equipment directly by double-clicking.
   equipped: Equipped
   click-edit-tips: Click on each block above to edit directly.
   auto-arrange-success-tips: Automatic arrangement is successful.
