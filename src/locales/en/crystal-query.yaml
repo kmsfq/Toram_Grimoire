@@ -1,0 +1,17 @@
+select-stat:
+  title: Select stat
+modes:
+  title: Search mode
+  normal: Normal
+  stat: Crystal stat
+crystal-category:
+  title: Crystal type
+  categorys:
+    - Weapon Crystal
+    - Armor Crystal
+    - Additional Crystal
+    - Special Crystal
+    - Normal Crystal
+no-results-tips: No results found 0.0
+enhancer-prefix: Can be enhanced
+obtain-prefix: Dropped from

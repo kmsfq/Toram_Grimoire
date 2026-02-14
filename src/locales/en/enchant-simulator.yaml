@@ -2,6 +2,8 @@ build: Stat build
 base-options: Base settings
 advanced-options: Advanced settings
 common-options: Common settings
+skill-level-options: Skill level settings
+material-skill-level-options: Material skill level settings
 equipment-type: Equipment type
 append-build: New stat build
 equipment-types:
@@ -26,6 +28,10 @@ material-point-type-list:
   - Cloth point
   - Medicine point
   - Mana point
+material-anvil-skill-level-sum: Total anvil skill levels
+material-anvil-skill-level-desc: Refers to the total skill level of other anvil-type skills that reduce material consumption, except "Private Anvil".
+experts-customization-2-skill: Expert's Customization II
+experts-customization-2-skill-desc: Only used for actual success rate calculations.
 step:
   insert-step-before: Insert a step before this one
   step-move-up: Move this step up
@@ -43,6 +49,8 @@ result:
   enchant-step-each: Split fill, Every time fill {stat}, Until {target}
   stats: Final result
   materials: Material consumption
+  materials-skill-levels: Material skill levels
+  operation-steps-quantity: Number of steps
   success-rate-detail:
     title: About success rate
     captions:
@@ -75,3 +83,4 @@ tips:
   remove-build-confirm: Are you sure to delete this stat build "("´Д｀")"?
   copy-build-success: Build was successful copied.
   copy-result-text-success: result text was successful copied.
+  first-load-failed-tips: An unknown error occurred while reading the file. In order to avoid the loss of the archive of statting simulation, the system has temporarily closed the archive function of statting simulation.
