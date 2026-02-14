@@ -193,7 +193,7 @@ registlet-build:
   show-detail: Show detailed information
   default-tips: This is empty 0.0, please click "Edit registlet" above to add new items.
   main-tips-1: It is still in the beta version, and the data for some skills may not be completed yet, causing the registlet to have no effect. When you find out which registlet are missing, you can report them to the development team.
-  main-tips-2: Currently only registlet related to numerical values ​​are supported, such as: character stat bonus, skill multiplier, skill damage times, etc. Some registlet with more complex conditions may not be supported yet.
+  main-tips-2: Currently only registlet related to numerical values ​​are supported, such as character stat bonus, skill multiplier, skill damage times, etc. Some registlet with more complex conditions may not be supported yet.
 potion-build:
   title: Consumables
   disable-potion: Disable consumables
