@@ -47,7 +47,7 @@ branch:
     TEC: Base TEC
     CRT: Base CRT
     LUK: Base LUK
-    MEN: Base MEN
+    MEN: Base MTL
     STR: Total STR
     INT: Total INT
     AGI: Total AGI
@@ -75,8 +75,8 @@ branch:
     'range: title': Range
     'skill_type: title': Skill type
     'in_combo: title': Combo
-    'action_time: title': Action time
-    'casting_time: title': Casting time
+    'action_time: title': Motion
+    'casting_time: title': Cast time
     mp_cost:
       0: No MP consumption
     skill_type:
@@ -92,9 +92,9 @@ branch:
     action_time:
       very_slow: Very slow
       slow: Slow
-      little_slow: Slightly slower
+      little_slow: Slightly slow
       normal: Normal
-      little_fast: Slightly faster
+      little_fast: Slightly fast
       fast: Fast
       very_fast: Very fast
     range:
@@ -180,8 +180,8 @@ branch:
   'damage: extra':
     condition-default-value: This damage
   proration:
-    'damage: title': Damage
-    'proration: title': Proration
+    'damage: title': Uses prorate
+    'proration: title': Deals prorate
     damage:
       physical: Physical
       magic: Magic

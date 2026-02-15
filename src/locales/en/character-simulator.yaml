@@ -12,7 +12,7 @@ character-basic:
   remove-character-success: Successfully removed「{name}」.
   restore-character-success: Successfully restored「{name}」.
   at-least-one-character: At least one character must be left.
-  character-builds-tip: Skill, food, and other configurations are bound on a character-by-character basis, and the system will record which builds are bound to each character.
+  character-builds-tip: Skill, food, and other configurations are bound on a character-by-character basis, and the system will record which configurations are bound to each character.
 character-dashboard:
   title: Overview
   no--any-equipment-tips: No equipment is equipped yet. Click the button on the right to edit the equipment.
@@ -49,7 +49,7 @@ equipment-info:
   stability: Stability
   refining: Refinement value
   stat-empty: The equipment has no stat
-  crystal-empty: The equipment has no crystal
+  crystal-empty: The equipment has no Crysta
 equipment-basic-editor:
   title: Equipment settings
   select-equipment-to-edit-tips: Select equipment to edit
@@ -63,12 +63,12 @@ equipment-basic-editor:
   label-empty-caption: There is no label yet. Click the button above to add a label.
   only-one-element-stat-tips: An equipment can only have one element, please confirm the stat list in editing.
 select-crystals:
-  title: Select crystal attachment
-  show-crystal-stats: Show crystal stats
-  filter-all-crystal: All crystals
-  filter-last-crystal: Last crystals
-  search-placeholder: Search crystal
-  selected-crystals: Selected crystals
+  title: Select Crysta attachment
+  show-crystal-stats: Show Crysta stats
+  filter-all-crystal: All Crystas
+  filter-last-crystal: Last Crystas
+  search-placeholder: Search Crysta
+  selected-crystals: Selected Crystas
   category-title:
     - Weapon
     - Armor
@@ -141,7 +141,7 @@ character-stat-detail:
   init-value: Initial value
   additional-value: Additional value
   equipped-with-text: When the equipment is {equip}
-  crystal: Crystal
+  crystal: Crysta
   food: Food
   equipment-restriction-text:
     1h_sword: Main｜One-Handed Sword

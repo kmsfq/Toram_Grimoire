@@ -5,8 +5,8 @@ star-gem-level-point: Star Gem point
 star-gem-list: Star Gem list
 increase-level: Increase
 decrease-level: Decrease
-skill-build: Skill Build
-create-build: Add Build
+skill-build: Skill Configuration
+create-build: Add Configuration
 default-tips: No skill trees have been selected yet. Please click the button on the lower right to add skill tree 0.0
 remove-build-tips: Configuration removed successfully.
 export-image:

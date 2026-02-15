@@ -1,14 +1,14 @@
-build: Stat build
+build: Stat Configuration
 base-options: Base settings
 advanced-options: Advanced settings
 common-options: Common settings
 skill-level-options: Skill level settings
 material-skill-level-options: Material skill level settings
 equipment-type: Equipment type
-append-build: New stat build
+append-build: New stat configuration
 equipment-types:
   main-weapon: Weapon
-  body-armor: Body armor
+  body-armor: Armor
   main-weapon_original-element: Weapon｜Original element
 enchant-step: Stat filling step
 append-enchant-step: Add new stat filling step
@@ -78,9 +78,9 @@ tips:
   step-stat-repeated: In this step there is already this stat (つд⊂)
   step-empty: This step is still empty (～￣▽￣)~
   stats-reached-upper-limit: This equipment reached the maximum number of stats (´-ω-｀)
-  keep-at-least-one-build: Please keep at least one build |ω`)...
+  keep-at-least-one-build: Please keep at least one configuration |ω`)...
   invalid-enchant-result: Can't produce results with the current configuration desu 0.0/
-  remove-build-confirm: Are you sure to delete this stat build "("´Д｀")"?
-  copy-build-success: Build was successful copied.
-  copy-result-text-success: result text was successful copied.
+  remove-build-confirm: Are you sure to delete this stat configuration "("´Д｀")"?
+  copy-build-success: Configuration was copied successfully.
+  copy-result-text-success: Result text was copied successfully.
   first-load-failed-tips: An unknown error occurred while reading the file. In order to avoid the loss of the archive of statting simulation, the system has temporarily closed the archive function of statting simulation.

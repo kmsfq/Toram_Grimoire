@@ -1,4 +1,4 @@
-build: Build
+build: Configuration
 create-custom-item: New
 result:
   title: Calculation result
@@ -20,14 +20,14 @@ calc-mode:
     common: Basic damage formula. Suitable for most computing situations.
     critical: The damage formula for a critical hit. It is mainly used to present "Two-Handed" in the calculation formula. The formula only simply shows the damage during a critical hit, and some items are outside the formula.
 compare:
-  title: Build comparison
-  caption: Here you can compare the current build with multiple other builds.
-  select-build: Select builds to compare
-  introduction: Please click the button above to select the build 0.0 you want to compare 0.0
-  at-least-two-builds-tips: You must have at least two builds to use the comparison function 0.0
+  title: Configuration comparison
+  caption: Here you can compare the current configuration with multiple other configurations.
+  select-build: Select configurations to compare
+  introduction: Please click the button above to select the configuration 0.0 you want to compare 0.0
+  at-least-two-builds-tips: You must have at least two configurations to use the comparison function 0.0
 tips:
   at-least-one-build: Keep at least one configuration 0.0
-  removed-build-success: The「{name}」build was successfully removed.
+  removed-build-success: The「{name}」configuration was successfully removed.
 item-base-titles:
   physical: Physical damage
   magic: Magic damage

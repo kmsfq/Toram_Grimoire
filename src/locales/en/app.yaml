@@ -20,8 +20,8 @@ page-title:
   character-simulator: Character Simulator
   skill-simulator: Skill Simulator
   skill-query: Skill Info
-  item-query: Item Search
-  crystal-query: Xtal Search
+  item-query: Equipment Search
+  crystal-query: Crysta Search
   registlet-query: Registlet Search
   damage-calculation: Damage Calculator
   enchant-simulator: Statting Simulator
@@ -82,7 +82,7 @@ settings:
     tips-1: The adjustable range is 120~200, default value is 160.
   primary-language:
     title: Language settings
-    caption: Language is automatically detected. You can change to another language below.
+    caption: Language is automatically detected. You can change to another language below (English, Traditional Chinese, Japanese, or Simplified Chinese).
     tips-1: After changing the language, the page needs to be refresh for the change to take effect.
     tips-2: Sections that have not been translated will still be displayed in other languages.
     lang-title:
